@@ -1,0 +1,38 @@
+p {
+    margin-top: 12px;
+    margin-left: 50px;
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 0px;
+    margin-left: 50px;    
+}
+h2 {
+    font-size: 32px;
+    border-bottom: 1;
+    border-color: gray;
+    margin-bottom: 8px;
+    margin-left: 50px;
+}
+.header-title {
+    font-size: 18px;
+    border-width: none;
+    margin-bottom: 10px;     
+}
+#header {
+    margin-bottom: 32px;
+    text-align: center;
+}
+#footer {
+    margin-top: 64px;
+    text-align: center;
+}
+h3 {
+    margin-left: 50px;
+}
+ul {
+    margin-left: 50px;
+}
+hr {
+    width: 95%;
+}
